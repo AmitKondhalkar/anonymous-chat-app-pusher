@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/.gradle/caches/modules-2/files-2.1/com.pusher/java-websocket/1.4.1/6021a3f6aac1feb586bc7898685e9a72bd1986d3/java-websocket-1.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6021a3f6aac1feb586bc7898685e9a72bd1986d3">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/java-websocket-1.4.1_bfea0e4c2b12baf25ee8b0b259247efd2a09b51c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_89a1436121ae108007e4dc023f5476ced89bd646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_099c17816b79460a6ccdc6f30013b8ec33c00dd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_b47452ea8a4696778a91b29941ebfc8eab1a5b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6d74e61b8540a2f12aae2db2f811adf8fa3de8b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_6534ee82ca1ad4b51b5fc44a884430278fdd3877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/.gradle/caches/modules-2/files-2.1/com.pusher/pusher-java-client/1.4.0/1067ee7e28259d61862b3fbde5582903dc6ab004/pusher-java-client-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1067ee7e28259d61862b3fbde5582903dc6ab004">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/pusher-java-client-1.4.0_408becba22924b92fd4c9f4b85491503178208d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_a5056af0715cf56cf2be8904d11e423f0aa6a4a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_60e7a0830a29992de68b49da17236f6982551159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_73c6667b751cf5025dd143cbbbf0e3afd508c10e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_0a7665041d123dc990fd178c656ac62069a4d224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_58d0d7d36f6b1775103e6aebbaea1e540ef9b6a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_58a09ea4f9fc8c62c69877a3e155797e31a0d470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_c546b59a860c3a74c18d589c35f854443fda495d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b29e1e29de983d6c9a8474facd4f5d1bd331b68f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.2/1f96456ca233dec780aa224bff076d8e8bca3908/gson-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/gson-2.2.2_c25bc779ed99165ce05b0adce193152159cf2813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_899431d38fecbf17c0df9b946ea005d6005c4f7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4388982377477e82732936ce3c4d6bf62a38552a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/6b262da268f8ad9eff941b25503a9198f0a0ac93/slf4j-api-1.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6b262da268f8ad9eff941b25503a9198f0a0ac93">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.5_dec59c44f5c223d122c138510a06ffe14399c2ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_152c6e61fd0844972ecf4b36706a939d7bcd8bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/amitk/Documents/Talentica/Android/projects/PublicChatApp/Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_7c85e961b5027215abdf3cce48af5152c7c50a2b.jar" />
+    </item>
+
+</items>
