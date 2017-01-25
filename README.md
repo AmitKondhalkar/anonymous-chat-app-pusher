@@ -2,4 +2,4 @@
 Sample chat app using pusher
 
 This is sample app built using pusher. 
-https://wordpress.com/post/blog.talentica.com/1362
+https://blog.talentica.com/2017/01/23/building-anonymous-chat-room-app-using-pusher-in-30-minutes/
